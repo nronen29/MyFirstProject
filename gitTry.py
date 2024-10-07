@@ -8,7 +8,7 @@ def calculate_area(radius):
     return area
 
 if __name__ == "__main__":
-    # Ask the user for the radius
+    # Ask the user for the radiusmmmm
     try:
         radius = float(input("Enter the radius of the circle: "))
         area = calculate_area(radius)
