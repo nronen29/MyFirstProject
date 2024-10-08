@@ -14,4 +14,4 @@ if __name__ == "__main__":
         area = calculate_area(radius)
         print(f"The area of the circle with radius {radius} is {area:.2f}")
     except ValueError:
-        print("Please enter a valid number..fff00000..")
+        print("Please enter a valid numberrr.")
